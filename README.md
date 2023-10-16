@@ -1,0 +1,1 @@
+The point of this program is to predict if an individual survived the Titanic sinking. I have created a neural network from scratch, allowing myself to only use NumPy to help with calculations. The .csv files contain the datasets I used to train my NN.
